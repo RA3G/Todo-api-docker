@@ -19,6 +19,3 @@ RUN CONTAINERS
 docker-compose up --build
 
 Application deployed on AWS EC2 instance using Docker Compose.
-
-Public Access:
-http://YOUR_PUBLIC_IP:3000/todos
