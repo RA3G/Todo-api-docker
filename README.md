@@ -12,7 +12,9 @@ Deployed on AWS EC2 with Docker Compose.
 •	AWS EC2 (Cloud Deployment)
 
   RUN LOCALLY ON DOCKER 
-git clone https://github.com/YOUR_USERNAME/Todo-api-docker.git
+git clone https://github.com/RA3G/Todo-api-docker.git
+
+
 cd Todo-api-docker
 
 RUN CONTAINERS 
